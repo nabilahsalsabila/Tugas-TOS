@@ -2,3 +2,4 @@ Rencana NSB Cafe
 - menjual berbagai varian coffie
 - menjual berbagai roti
 - menambahkan rak buku untuk pelanggan
+- menjual jus segar
